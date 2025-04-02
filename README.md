@@ -36,5 +36,5 @@ Este proyecto es una API REST desarrollada con **Spring Boot** para la gestión 
 
 1. Clona este repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/Erickxdps/Practica1
    cd RegistroUniversitario
